@@ -274,6 +274,12 @@ func intPtr(i int) *int       { return &i }
 * API Documentation: https://lix.li/api
 * OpenAPI Specification: https://github.com/lix-url/openapi
 
+## Other SDKs
+
+- PHP SDK: https://github.com/lix-url/php-sdk
+- JavaScript SDK: https://github.com/lix-url/js-sdk
+- Python SDK: https://github.com/lix-url/python-sdk
+
 ## License
 
 MIT
