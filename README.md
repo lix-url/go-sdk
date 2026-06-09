@@ -280,6 +280,12 @@ func intPtr(i int) *int       { return &i }
 - JavaScript SDK: https://github.com/lix-url/js-sdk
 - Python SDK: https://github.com/lix-url/python-sdk
 
+## Support
+
+Need help with the API or SDK?
+
+- Support Center: https://lix.li/support
+
 ## License
 
 MIT
